@@ -5,7 +5,7 @@ Code for paper: "Robust Variational Autoencoders for Outlier Detection and Repai
 
 ## Instalation
 
-+ Please install ./setup.py in folder ./src
++ Please install ./setup.py in folder ./src in order to use core_models package.
 
 + Use Pytorch 1.3.1 at least
 
@@ -41,5 +41,3 @@ Code for paper: "Robust Variational Autoencoders for Outlier Detection and Repai
 ## License
 
  MIT
-
- 
